@@ -31,5 +31,5 @@ int main(){
     cout << "Largest: " << max_num << endl;
     cout << "Smallest: " << min_num << endl;
 
-    return 1;
+    return 0;
 }
